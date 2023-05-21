@@ -101,4 +101,4 @@ Each file is in JSON format and contains metadata about a song and the artist of
 
 The image below represents all the stages of the project as well as the dependencies between the tasks.
 
-!["DAG"](/imgs/DAG.png)
+!["DAG"](/docs/imgs/DAG.png)
